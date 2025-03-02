@@ -1,3 +1,6 @@
+
+
+
 import matplotlib.pyplot as plt
 products = ["Cream", "Facewash", "Paste", "Soap", "Shampoo", "Serum", "T_U", "T_P"]
 products_sold = [2500,1500,5200,9200,1200,1500,21100,211000]
